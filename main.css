@@ -1,0 +1,34 @@
+.yashil{
+    border: 5px solid greenyellow;
+    box-shadow: 3px 4px 29px 3px rgba(0, 225, 8, .71);
+    -webkit-box-shadow: 3px 4px 29px 3px rgba(0, 225, 8, .71);
+    -moz-box-shadow: 3px 4px 29px 3px rgba(0, 225, 8, .71);
+}
+.error{
+    border: 5px solid tomato;
+    box-shadow: 3px 4px 29px 3px rgba(225, 0, 0, .71);
+    -webkit-box-shadow: 3px 4px 29px 3px rgba(225, 0, 0, .71);
+    -moz-box-shadow: 3px 4px 29px 3px rgba(225, 0, 0, .71);
+}
+.togri{
+    width: 200px;
+    height: 60px;
+    background-color: rgba(127, 240, 165, 0.748);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 18px;
+}
+.xato{
+    width: 200px;
+    height: 60px;
+    background-color: rgba(147, 3, 56, 0.748);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 18px;
+}
